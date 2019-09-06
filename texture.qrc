@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>phong.jpg</file>
+        <file>background.png</file>
+        <file>BlueWater.jpg</file>
+        <file>Sith.jpeg</file>
+        <file>sith_2.png</file>
+    </qresource>
+</RCC>
